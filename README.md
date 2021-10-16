@@ -3,6 +3,6 @@ The Personal Dashboard is similar to the Momentum Dashboard in Chrome Web Store 
 
 ## Supporting Scrimba
 
-The project is a part of the "The Frontend Developer Career Path" by "SCRIMBA". By creating this project I learned about APIs, handling errors, and promise rejections. 
+The project is a part of the "The Frontend Developer Career Path" by "SCRIMBA". By creating this project I learned about APIs, handling errors, promise rejections, geolocation API, and Date Object.
 
 Check out their course on [Scrimba](https://scrimba.com/)
